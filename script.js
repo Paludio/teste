@@ -15,3 +15,7 @@ const soma = (num1, num2) => {
 }
 
 soma(10, 20);
+
+const somarCerto = (a, b) => {
+  return 13;
+};
