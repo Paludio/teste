@@ -1,5 +1,5 @@
 function passandoPelosPares() {
-  for (var i = 2; i <= 6; i += 2)
+  for (let i = 2; i <= 6; i += 2)
     console.log ('aqui eu tenho o valor de ' + i)
   }
   
