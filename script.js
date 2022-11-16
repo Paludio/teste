@@ -1,5 +1,7 @@
-function soma(a, b) {
-  return a + b;
+const soma = (num1, num2) => {
+    console.log(num1 + num2)
 }
 
-soma(2, 2);
+soma(10, 20);
+
+
